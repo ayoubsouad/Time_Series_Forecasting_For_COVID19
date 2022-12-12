@@ -5,5 +5,5 @@ This project aims to predict the numbers that are published in each day regardin
 requirements:
 tensorflow and keras, sklearn,..
 also you need to install fbprophet and XGBoost classifier, you can install them by:
-#>>pip install fbprophet
-#>>pip install xgboost
+>>pip install fbprophet
+>>pip install xgboost
