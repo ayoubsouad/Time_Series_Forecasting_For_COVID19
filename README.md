@@ -1,4 +1,4 @@
-# Compare-time-series-forecasting-of-COVID-19-deaths
+# Benchmarking-time-series-forecasting-of-COVID-19-deaths
 
 This project aims to predict the numbers that are published in each day regarding the amount of Coronavirus cases and deaths. And comparing time series predictions of COVID-19 deaths with SARIMAX, Facebook Prophet, XGBoost, NN.
 
